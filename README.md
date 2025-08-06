@@ -1,0 +1,5 @@
+Geliştirdiğimiz web tabanlı uygulama, canlı yayın sırasında influencer tarafından bahsedilen ürünleri gerçek zamanlı olarak tespit eder, anında kullanıcıya gösterir ve tek tıkla sepete ekleme imkânı sunar. Sistemimiz, canlı yayındaki konuşmaları anlık olarak yazıya döküp bu verileri Gemini API ile analiz ederek ürün isimlerini ve kategorilerini otomatik olarak belirler. Eşleşen ürünler, izleyici arayüzünde gecikmesiz şekilde görüntülenir.
+
+Uygulamamızın öne çıkan yönü, ürün açıklaması üretmekten ziyade, anlık ürün tespiti ve eyleme geçirilebilirliği sağlamasıdır. Yayın sırasında geçen her ürün fırsata dönüşür. Bu yönüyle yalnızca klasik e-ticaret entegrasyonlarını değil, aynı zamanda içerik üzerinden alışverişi kolaylaştıran etkileşimli alışveriş deneyimini mümkün kılar.
+
+Gemini API, konuşma içeriğinden ürünleri ayrıştırmak ve doğru şekilde sınıflandırmak için doğal dil işleme yetenekleriyle kullanılmıştır. Tüm süreç gerçek zamanlı simüle edilmiştir ve kullanıcıya hiçbir manuel işlem gerektirmeden sezgisel bir deneyim sunar. 
